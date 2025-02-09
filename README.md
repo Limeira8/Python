@@ -1,5 +1,1 @@
-🌐 Alguns códigos em Python de atividades avaliativas feitas durante a cadeira de Python da UFPE.
-
-🟢 Separei cada problema em uma branch diferente, para melhor entendimento.
-
-🔵 O no README de cada branch está a descrição do problema.
+![Problema3](https://github.com/user-attachments/assets/550669e2-e82d-4778-9ea0-a5a5529bd66b)
